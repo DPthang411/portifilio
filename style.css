@@ -1,0 +1,52 @@
+.Hometitle{
+    position:relative;
+    left:580px;
+    bottom:50%;
+    font-size: 50px;
+}
+.About{
+    position:relative;
+    left:450px;
+    bottom:0px;
+    font-size: 100px;
+}
+.about{
+    position:relative;
+    left:580px;
+    bottom:0px;
+    font-size: 100px;
+}
+.Introduction{
+    font-size: 50px;
+}
+.Projects{
+    position:relative;
+    left:750px;
+    bottom:115px;
+    font-size: 100px;
+}
+.project{
+    position:relative;
+    font-size: 100px;
+    bottom:0px;
+    left:500px;
+}
+.projectsmessage{
+    position:relative;
+    font-size: 50px;
+    left:300px;
+}
+.indexbody{
+    overflow-x: hidden;
+}
+.projectbody{
+    overflow-x:hidden;
+}
+.indexbody{
+    overflow-x:hidden;
+}
+.projecthome{
+    font-size: 50px;
+    position:relative;
+    left:450px;
+}
