@@ -1,52 +1,57 @@
-.Hometitle{
+.home-title{
     position:relative;
     left:580px;
     bottom:50%;
     font-size: 50px;
 }
-.About{
+.About-section{
     position:relative;
     left:450px;
     bottom:0px;
     font-size: 100px;
 }
-.about{
+.about-title{
     position:relative;
     left:580px;
     bottom:0px;
     font-size: 100px;
 }
-.Introduction{
+.about-introduction{
     font-size: 50px;
 }
-.Projects{
+.Projects-section{
     position:relative;
     left:750px;
     bottom:115px;
     font-size: 100px;
 }
-.project{
+.project-title{
     position:relative;
     font-size: 100px;
     bottom:0px;
     left:500px;
 }
-.projectsmessage{
+.project-message{
     position:relative;
     font-size: 50px;
     left:300px;
 }
-.indexbody{
+.home-body{
     overflow-x: hidden;
 }
-.projectbody{
+.project-body{
     overflow-x:hidden;
 }
-.indexbody{
-    overflow-x:hidden;
-}
-.projecthome{
+.project-home-message{
     font-size: 50px;
     position:relative;
     left:450px;
+}
+.about-body{
+    overflow-x: hidden;
+}
+.home-slogan{
+    position:relative;
+    font-size: 50px;
+    left:30px;
 }
