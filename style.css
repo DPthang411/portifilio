@@ -1,57 +1,16 @@
-.home-title{
-    position:relative;
-    left:580px;
-    bottom:50%;
-    font-size: 50px;
+body {
+    width: 100%;
+    background-color: lightgray;
+    text-align: center;
+    font-family: sans-serif;
 }
-.About-section{
-    position:relative;
-    left:450px;
-    bottom:0px;
-    font-size: 100px;
+
+h1 {
+    font-size: 30px;
 }
-.about-title{
-    position:relative;
-    left:580px;
-    bottom:0px;
-    font-size: 100px;
-}
-.about-introduction{
-    font-size: 50px;
-}
-.Projects-section{
-    position:relative;
-    left:750px;
-    bottom:115px;
-    font-size: 100px;
-}
-.project-title{
-    position:relative;
-    font-size: 100px;
-    bottom:0px;
-    left:500px;
-}
-.project-message{
-    position:relative;
-    font-size: 50px;
-    left:300px;
-}
-.home-body{
-    overflow-x: hidden;
-}
-.project-body{
-    overflow-x:hidden;
-}
-.project-home-message{
-    font-size: 50px;
-    position:relative;
-    left:450px;
-}
-.about-body{
-    overflow-x: hidden;
-}
-.home-slogan{
-    position:relative;
-    font-size: 50px;
-    left:30px;
+
+.paragraph {
+    display: inline-block;
+    width: 500px;
+    max-width: 90%;
 }
